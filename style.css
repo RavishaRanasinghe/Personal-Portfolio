@@ -162,6 +162,12 @@ img {
     align-items: center;
 }
 
+.nav__logo {
+    color: var(--title-color);
+    font-weight: var(--font-semibold);
+    font-size: 1.25rem;
+}
+
 .nav__menu {
     position: relative;
 }
