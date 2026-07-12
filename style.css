@@ -1,5 +1,3 @@
-
-
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 
@@ -426,6 +424,17 @@ img {
     gap: 2rem;
     max-width: 1000px;
     margin: 0 auto;
+}
+
+.project__type{
+    display:inline-block;
+    margin-bottom:.8rem;
+    padding:4px 12px;
+    border-radius:20px;
+    background:var(--first-color-alt);
+    color:var(--title-color);
+    font-size:.8rem;
+    font-weight:600;
 }
 
 .project__card {
